@@ -1,2 +1,1 @@
 NalogApp
-BAd comment 
